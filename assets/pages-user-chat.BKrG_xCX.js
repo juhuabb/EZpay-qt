@@ -1,0 +1,1 @@
+import{r as s,d as r,u as a,al as t,j as e}from"./index-BNuxkM24.js";const n={__name:"chat",setup(n){var u=s("http://192.168.44.132:7878kefu.html");return(s,n)=>{const c=t;return e(),r(c,{src:a(u)},null,8,["src"])}}};export{n as default};
